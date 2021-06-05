@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: cornsilk;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+}
+.inner_header{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: solid;
+}
+.logo_container{
+    height: 100%;
+    display: table;
+    float: left;
+}
+.logo_container h1{
+    color: white;
+    height: 100%;
+    vertical-align: middle;
+    display: table-cell;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    font-weight:300
+}
+.logo_container h1 span{
+    font-weight: 800;
+
+}
+.navigation{
+    float: right;
+    height: 100%;
+}
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+.navigation a:last-child{
+    padding-right: 0;
+}
+.navigation a li{
+    display: table-cell;
+    height: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    vertical-align: middle;
+}
+p{
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    background-color: white;
+    width: 1000px;
+}
+h2{
+    vertical-align: center;
+    border-style: white;
+    border-width: 5px;
+    border-color: black;
+    background-color: burlywood;
+    width: 500px;
+}
+
+ol{
+    border: solid;
+    width: 1100;
+    background-color: black;
+}
+ul{
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgb(2, 3, 0);
+    width: 1100px;
+}
+h3{
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgb(178, 32, 129);
+    width: 500px;
+    color: white;
+}
+.logo_containe{
+    height: 100%;
+    display: block;
+    float: left;
+    width: 100%;
+}
+.logo_containe{
+    color: rgb(59, 8, 141);
+}
