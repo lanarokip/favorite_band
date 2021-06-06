@@ -13,10 +13,10 @@ so as to access the project on ur local files, you have to clone it using the st
 2. use this comand to clone 's git clone https://lanarokip.github.io/favorite_band/
 3. this will clone the repository into your local browser
 ### Tech used
-1. HTML
+1. HTMLs
 1. CSS
 1. Git
 ### live site 
 view [live] (https://lanarokip.github.io/favorite_band/)
 ## license & copyright
-© Aron langat , my favorit
+the project is under the [MIT] (license) license.
