@@ -66,9 +66,10 @@ p{
 }
 h2{
     vertical-align: center;
+    border-style: inset;
     border-style: white;
     border-width: 5px;
-    border-color: black;
+    border-color: grey;
     background-color: rgb(119, 75, 17);
     width: 500px;
     
