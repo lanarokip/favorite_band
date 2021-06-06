@@ -10,7 +10,7 @@ use the command below to install
 ### setup
 so as to access the project on ur local files, you have to clone it using the steps below
 1. open the terminal. press CTRL+ALT+T
-2. use this comand to clone 's git clone https://lanarokip.github.io/favorite_band/
+2. use this comand to clone 's git clonehttps://github.com/lanarokip/favorite_band.git
 3. this will clone the repository into your local browser
 ### Tech used
 1. HTMLs
@@ -21,4 +21,4 @@ so as to access the project on ur local files, you have to clone it using the st
 The project is under the  [MIT](license) license.
 
 ### live site 
-view [live] (https://https://lanarokip.github.io/favorite_band/)
+view [live](https://lanarokip.github.io/favorite_band/)
