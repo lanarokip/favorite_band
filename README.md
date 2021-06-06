@@ -18,5 +18,5 @@ so as to access the project on ur local files, you have to clone it using the st
 1. Git
 ### live site 
 view [live] (https://lanarokip.github.io/favorite_band/)
-## license & copyright
+### license
 the project is under the [MIT] (license) license.
