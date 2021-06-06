@@ -71,6 +71,7 @@ h2{
     border-color: black;
     background-color: burlywood;
     width: 500px;
+    
 }
 
 ol{
@@ -83,13 +84,16 @@ ul{
     border-width: 1px;
     background-color: rgb(2, 3, 0);
     width: 1100px;
+    height: 1100px;
+    overflow: auto;
 }
 h3{
     border-style: solid;
     border-width: 1px;
-    background-color: rgb(178, 32, 129);
+    background-color: rgb(27, 7, 21);
     width: 500px;
     color: white;
+    border-color: black;
 }
 .logo_containe{
     height: 100%;
@@ -98,5 +102,5 @@ h3{
     width: 100%;
 }
 .logo_containe{
-    color: rgb(59, 8, 141);
+    color: rgb(159, 241, 229);
 }
